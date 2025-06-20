@@ -66,7 +66,7 @@ const upload = multer({
 // Helper function to upload files to S3
 const uploadToS3 = async (fileBuffer, fileName, contentType) => {
   const uploadParams = {
-    Bucket: 'moviebucketsudhanshuvlog',
+    Bucket: 'bucket-975049890702',
     Key: fileName,
     Body: fileBuffer,
     ContentType: contentType,
