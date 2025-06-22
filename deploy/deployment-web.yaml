@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: jinny1/movie-streaming-frontend:latest
+        image: gaurav1002/movie-streaming-frontend:latest
         ports:
         - containerPort: 80
         env:
