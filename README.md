@@ -187,3 +187,19 @@ The project follows a multi-container Docker architecture consisting of three ma
 
         DB_HOST, DB_USER, DB_PASSWORD, DB_NAME for MySQL connection.
         AWS_REGION, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY for AWS S3.
+
+## 📘 Learning-Based Deployment Project (AWS)
+
+This project is part of my hands-on learning journey with AWS and DevOps concepts.
+
+The project code and structure are based on a tutorial created by a certified instructor from **GeeksforGeeks (GFG)**. I followed the tutorial to understand how cloud deployment works in real-time using AWS services.
+
+✅ I personally:
+- Deployed the application on **AWS EC2**
+- Set up required services like **Docker, Jenkins**, and **Kubernetes**
+- Ran the full deployment pipeline as explained in the tutorial
+- Troubleshooted and customized configurations during deployment
+
+This helped me gain **practical, hands-on experience** in deploying applications on AWS using DevOps tools. I have shared this repository to reflect my learning and cloud deployment practice.
+
+> _Note: This project is for educational purposes and is based on a publicly available tutorial from a GFG educator._
